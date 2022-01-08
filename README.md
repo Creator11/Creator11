@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Danil Troshin</h1>
-![hippo](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creator11&label=Profile%20views&color=0a0a0a&style=flat-square" alt="creator11" /> </p>
