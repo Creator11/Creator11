@@ -38,8 +38,8 @@
 
 #### 📊 Stats
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Creator11&theme=radical&row=2&column=2&no-follower=true&no-issue=true&no-pullrequest=true" alt="GitHub Trophy">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Creator11&theme=radical" alt="GitHub Streak">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Creator11&theme=dark&row=2&column=2&no-follower=true&no-issue=true&no-pullrequest=true" alt="GitHub Trophy">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Creator11&theme=dark" alt="GitHub Streak">
 </p>
 
 <p align="center">
