@@ -7,7 +7,7 @@
 </p>
 
 #### 🌐 Contact
-- 🌍 Website: [Your website](https://example.com)
+ 
 - 📧 How to reach me: [**troshind11@gmail.com**](mailto:troshind11@gmail.com)
 
 
